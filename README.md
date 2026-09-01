@@ -42,7 +42,7 @@ Tenho experiência com projetos envolvendo **Business Intelligence, SQL, ETL, au
 
 ## Projetos em destaque
 
-Estou documentando projetos reais desenvolvidos nas áreas de dados, BI, analytics e automação.
+Estou documentando cases técnicos baseados em projetos e desafios reais nas áreas de dados, BI, analytics e automação. As versões públicas foram reconstruídas com dados sintéticos e informações anonimizadas.
 
 ### Analytics & Customer Intelligence Platform
 Plataforma analítica integrada para acompanhamento de visitantes, leads, vendas, jornada do usuário, campanhas e interações via WhatsApp.
@@ -65,7 +65,7 @@ Estrutura de análise da jornada do usuário em e-commerce, desde a navegação 
 
 ---
 
-### Tracking & Data Collection Architecture
+### E-commerce Tracking Architecture
 Implementações de mensuração e tracking para operações digitais, utilizando coleta Web e Server-side.
 
 `GTM Web` `GTM Server` `GA4` `Meta CAPI` `APIs`
