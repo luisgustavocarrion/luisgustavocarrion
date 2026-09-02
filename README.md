@@ -40,49 +40,59 @@ Tenho experiência com projetos envolvendo **Business Intelligence, SQL, ETL, au
 - TypeScript
 - Recharts
 
-## Projetos em destaque
+## Cases técnicos
 
-Estou documentando cases técnicos baseados em projetos e desafios reais nas áreas de dados, BI, analytics e automação. As versões públicas foram reconstruídas com dados sintéticos e informações anonimizadas.
+Mantenho um portfólio privado com cases técnicos inspirados em problemas e experiências profissionais, reconstruídos de forma independente para demonstração.
 
-### Analytics & Customer Intelligence Platform
-Plataforma analítica integrada para acompanhamento de visitantes, leads, vendas, jornada do usuário, campanhas e interações via WhatsApp.
+Os cases utilizam **dados sintéticos, estruturas genéricas e implementações demonstrativas**, sem reproduzir dados, credenciais ou ambientes de empresas específicas.
 
-`SQL` `Nekt` `Supabase` `React` `TypeScript` `BI`
+### Analytics & Customer Intelligence
+
+Case de arquitetura analítica voltada à consolidação de comportamento, clientes, vendas, campanhas e interações digitais.
+
+`SQL` `Analytics Engineering` `Customer Intelligence` `BI`
 
 ---
 
 ### Omnichannel Retail Attribution
-Arquitetura de dados desenvolvida para relacionar interações digitais com vendas realizadas em lojas físicas.
 
-`Oracle` `SQL` `n8n` `Supabase` `Meta API` `Power BI`
+Case de integração e atribuição desenvolvido para demonstrar a associação entre interações digitais e conversões realizadas em canais offline.
+
+`SQL` `ETL` `Identity Resolution` `Attribution`
 
 ---
 
 ### E-commerce Customer Journey Analytics
-Estrutura de análise da jornada do usuário em e-commerce, desde a navegação até a conversão.
 
-`GTM` `GA4` `SQL` `Power BI` `Analytics`
+Case de análise comportamental com resolução de usuários, sessionização, sequenciamento de eventos, funil e jornadas de conversão.
+
+`SQL` `Customer Journey` `Funnel Analysis` `Behavioral Analytics`
 
 ---
 
 ### E-commerce Tracking Architecture
-Implementações de mensuração e tracking para operações digitais, utilizando coleta Web e Server-side.
 
-`GTM Web` `GTM Server` `GA4` `Meta CAPI` `APIs`
+Case de arquitetura de mensuração para e-commerce envolvendo contrato de eventos, Data Layer, tracking Web/Server-side, deduplicação e qualidade da coleta.
 
-## O que você encontrará aqui
+`Event Tracking` `Data Layer` `Server-side` `Tracking QA`
 
-Os projetos publicados neste GitHub utilizam dados fictícios ou anonimizados para preservar informações confidenciais das empresas envolvidas.
+## Portfólio técnico
 
-O objetivo dos repositórios é demonstrar:
+Os repositórios dos cases permanecem privados por questões de confidencialidade e são disponibilizados ou apresentados de forma seletiva quando necessário.
 
-- arquitetura das soluções;
-- modelagem e transformação de dados;
-- regras de negócio;
-- consultas SQL;
-- automações;
+O portfólio demonstra competências em:
+
+- arquitetura e modelagem de dados;
+- transformação e análise com SQL;
+- ETL e integração de sistemas;
+- customer journey e attribution;
+- automação;
+- tracking e mensuração;
 - dashboards e aplicações analíticas;
-- decisões técnicas utilizadas durante os projetos.
+- qualidade e validação de dados;
+- abordagens técnicas aplicáveis a problemas reais de dados e analytics.
+
+**Cases técnicos e amostras de código disponíveis mediante solicitação.**
 
 ## Contato
 
