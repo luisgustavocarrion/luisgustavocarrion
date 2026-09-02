@@ -6,39 +6,12 @@ Transformo dados brutos em informações úteis para tomada de decisão, constru
 
 Tenho experiência com projetos envolvendo **Business Intelligence, SQL, ETL, automações, tracking, integração de dados e analytics**, trabalhando com diferentes fontes e plataformas.
 
-## Tecnologias
+### Tecnologias
 
-**Dados e BI**
-
-- Power BI
-- SQL
-- PostgreSQL
-- Supabase
-- Nekt
-- Excel
-
-**Engenharia e Automação**
-
-- n8n
-- ETL / ELT
-- APIs REST
-- Webhooks
-- Integração de sistemas
-
-**Analytics e Tracking**
-
-- Google Tag Manager
-- Google Analytics 4
-- Meta Pixel / CAPI
-- Google Ads
-- Tracking Web e Server-side
-
-**Aplicações e Visualização**
-
-- Lovable
-- React
-- TypeScript
-- Recharts
+**Dados & BI:** Power BI · SQL · PostgreSQL · Supabase · Nekt · Excel  
+**Engenharia & Automação:** n8n · ETL/ELT · APIs REST · Webhooks · Integrações  
+**Analytics & Tracking:** GTM · GA4 · Meta Pixel/CAPI · Google Ads · Server-side Tracking  
+**Aplicações:** Lovable · React · TypeScript · Recharts
 
 ## Cases técnicos
 
